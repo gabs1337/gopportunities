@@ -16,8 +16,6 @@ This project uses the powerfull language for API built called Golang and follows
 - Implementing a complete job opportunities API with endpoints for searching, creating, editing, and deleting opportunities
 - Implementing automated tests to ensure API quality
 
-To use these commands, simply type `make` followed by the desired command in your terminal. For example:
-
 
 ## Used Tools
 
