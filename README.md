@@ -1,8 +1,4 @@
-# GoJob Opportunities API
-
-<p align="center">
-  <img src="./assets/GopportunitiesHeader.svg" alt="GoJob Header">
-</p>
+# Go Opportunities API
 
 This project uses the powerfull language for API built called Golang and follows a modern structure.    
 
