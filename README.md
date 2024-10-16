@@ -27,11 +27,6 @@ This project uses the following tools:
 - [SQLite](https://www.sqlite.org/index.html) as the database
 - [Swagger](https://swagger.io/) for API documentation and testing
 
-## Usage
-
-After the API is running, you can use the Swagger UI to interact with the endpoints for searching, creating, editing, and deleting job opportunities. The API can be accessed at `http://localhost:$PORT/swagger/index.html`.
-
-Default $PORT if not provided=8080.
 
 ## Credits
 This project was made for learning purposes.
